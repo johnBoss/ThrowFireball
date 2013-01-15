@@ -1,0 +1,5 @@
+name: ThrowFireball
+authors: [qwerchik]
+main: qwerchik.throwfireball.ThrowFireball
+version: 0.0.1 alpha
+
